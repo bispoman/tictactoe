@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Tic-tac-toe</string>
+    <string name="tictacLinesSize">5dp</string>
 </resources>
