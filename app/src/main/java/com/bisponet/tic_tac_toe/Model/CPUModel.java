@@ -1,8 +1,8 @@
-package com.bisponet.tic_tac_toe.model;
+package com.bisponet.tic_tac_toe.Model;
 
 import java.util.Random;
 
-public class cpuModel {
+public class CPUModel {
 
     public int CPUplayCoord (){
         //Setting lowest and highest number to randomize
