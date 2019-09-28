@@ -96,5 +96,7 @@ public class MainActivity extends AppCompatActivity {
                 myController.play(3,3);
             }
         });
+
+        myController.firstMove(auxtext);
     }
 }
